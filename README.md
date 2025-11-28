@@ -1,5 +1,9 @@
-**Hey!**
+# aurther
 
-Welcome to my GitHub Account :)
+design & systems engineer. building spatial & hardware.
 
-[![Aurther's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurther-nadeem&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+wwdc scholarship '19 winner.
+
+also built: bridge (agentic ai), clear spaces (widgets, 250k+ users), pendant (ai wearable)
+
+find me on [twitter](https://twitter.com/aurthernadeem) • [linkedin](https://linkedin.com/in/aurther-nadeem) • [bento](https://bento.me/aurther)
